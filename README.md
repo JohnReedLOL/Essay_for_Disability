@@ -9,7 +9,7 @@ Table of Contents
 * <a href="#Introduction">Introduction</a>
 * <a href="#Cognitive-Issues">Cognitive Issues</a>
 * <a href="#Sleep-Issues">Sleep Issues</a>
-* <a href="#Transportation-Issues">ransportation Issues/a>
+* <a href="#Transportation-Issues">Transportation Issues</a>
 * <a href="#Social-Interpersonal-Personality-Issues">Social, Interpersonal, or Personality Issues</a>
 * <a href="#Motivation-Issues">Motivation Issues</a>
 * <a href="#Additional-Information-Including-Neurological-Issues">Additional Information Including Neurological Issues</a>
