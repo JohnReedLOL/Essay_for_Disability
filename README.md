@@ -2,7 +2,7 @@
 
 This essay is out of date, for an updated version, please see: https://docs.google.com/document/d/14K8AKfJ_9-YJm_UcQt1vTGcw4pxKkxDOH0rRP-hPIBk/edit?usp=drivesdk
 
-This is an essay (which turned into a journal) I wrote (over the course of multiple years) to send to the government in preparation for my upcoming Continuing Disability Review, in which my government disability benefits will be reviewed and the decision will be made to continue or discontinue them. This essay explains what is wrong with me to the best of my ability. This was originally written as a Google Doc meant to be read from beginning to end, I just broke it up into sections to make it more manageable.
+Anyway, this is an essay (which turned into a journal) I wrote (over the course of multiple years) to send to the government in preparation for my upcoming Continuing Disability Review, in which my government disability benefits will be reviewed and the decision will be made to continue or discontinue them. This essay explains what is wrong with me to the best of my ability. This was originally written as a Google Doc meant to be read from beginning to end, I just broke it up into sections to make it more manageable.
 
 
 ____________________________________________________________________________________________________________________
