@@ -7,7 +7,7 @@ Anyway, this is an essay (which turned into a journal) I wrote (over the course 
 
 ____________________________________________________________________________________________________________________
 
-Table of Contents
+Table of Contents (click on a link to jump to that section)
 
 * <a href="#Introduction">Introduction</a>
 * <a href="#Cognitive-Issues">Cognitive Issues</a>
