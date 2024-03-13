@@ -15,7 +15,7 @@ Table of Contents (click on a link to jump to that section)
 * <a href="#Transportation-Issues">Transportation Issues</a>
 * <a href="#Social-Interpersonal">Social or Interpersonal or Personality Issues</a>
 * <a href="#Motivation-Issues">Motivation Issues</a>
-* <a href="#Additional-Information-Including-Neurological-Issues">Additional Information Including Neurological Symptoms</a>
+* <a href="#Additional-Information-Including-Neurological-Symptoms">Additional Information Including Neurological Symptoms</a>
 * <a href="#Sign-Off-With-Date">Sign off with date</a>
 
 ____________________________________________________________________________________________________________________
@@ -90,7 +90,7 @@ Anyway, finally going off that long tangent about my social issues, the fifth re
 
 ____________________________________________________________________________________________________________________
 
-<a name="Additional-Information-Including-Neurological-Issues"></a>
+<a name="Additional-Information-Including-Neurological-Symptoms"></a>
 
 ### Additional Information Including Neurological Symptoms
 
