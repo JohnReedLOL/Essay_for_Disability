@@ -15,7 +15,7 @@ Table of Contents (click on a link to jump to that section)
 * <a href="#Transportation-Issues">Transportation Issues</a>
 * <a href="#Social-Interpersonal">Social or Interpersonal or Personality Issues</a>
 * <a href="#Motivation-Issues">Motivation Issues</a>
-* <a href="#Additional-Information-Including-Neurological-Issues">Additional Information Including Neurological Issues</a>
+* <a href="#Additional-Information-Including-Neurological-Issues">Additional Information Including Neurological Symptoms</a>
 * <a href="#Sign-Off-With-Date">Sign off with date</a>
 
 ____________________________________________________________________________________________________________________
@@ -92,7 +92,7 @@ ________________________________________________________________________________
 
 <a name="Additional-Information-Including-Neurological-Issues"></a>
 
-### Additional Information Including Neurological Issues
+### Additional Information Including Neurological Symptoms
 
 Speaking of having nothing to live for, if I get kicked off disability, I anticipate making a suicide attempt. Please do not contribute to me killing myself. I feel trapped in my life and don't see any other way out. Also, being on disability is not fun for me (I mean it's better than being unable to get and keep a job and also not getting disability benefits, but I never chose this life). I hate my disabilities so much and deeply wish that I were a non-disabled, normal, functional human being (in both work and social life).
 
