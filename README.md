@@ -17,6 +17,7 @@ Table of Contents (click on a link to jump to that section)
 * <a href="#Motivation-Issues">Motivation Issues</a>
 * <a href="#Additional-Information-Including-Neurological-Symptoms">Additional Information Including Neurological Symptoms</a>
 * <a href="#Sign-Off-With-Date">Sign off with date</a>
+* <a href="#Bonus-Paragraphs-Added-Later">Bonus Paragraphs Added Later</a>
 
 ____________________________________________________________________________________________________________________
 
