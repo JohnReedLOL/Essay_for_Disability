@@ -129,7 +129,7 @@ It is January 26, 2023 at the time of writing and this is the last paragraph. I 
 
 ### Sign Off with Date
   
-John Michael Reed
+- John Michael Reed
 
 Date writing completed (without final edits): July 23, 2023
 
