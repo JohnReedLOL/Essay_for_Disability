@@ -75,7 +75,7 @@ I’m going to update this section above the horizontal line. Before I wrote “
 
 Do I have friends in my life who I love and care about emotionally? Absolutely not. I barely have acquaintances. But again, that’s not super relevant from a work perspective.
 
-Now I will admit there is A LITTLE relevancy. Happily married men tend to make more money than men who are single and can’t get a partner, but that alone doesn’t preclude someone from working. Other stuff is more relevant. I will leave the below here for historical reasons: 
+Now I will admit there is A LITTLE relevancy. Happily married men tend to make more money than men who are single and can’t get a partner, but that alone doesn’t preclude someone from working. Other stuff is more relevant. I will leave the below that I wrote before here for historical reasons: 
 
 ____________________________________________________________________________________________________________________
 
