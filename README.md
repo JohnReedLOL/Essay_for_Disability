@@ -71,7 +71,11 @@ ________________________________________________________________________________
 ### Social or Interpersonal or Personality Issues
 
 
-I’m going to update this section above the horizontal line. Before I wrote “The fourth reason I can't work is social”. And yeah, I do have social issues, but I always had social issues and people were stupid enough to give me job offers in the past, at least during certain points in my mood cycle. I think the social issues I have are more a problem for dating and relationships than they are for working. Like yeah, sure, I have never been in an official boyfriend and girlfriend relationship despite being a cisgender heterosexual male who is 30 years old despite making my personal best efforts to get into a relationship, but that’s not super relevant from a work perspective. The specific cognitive issues, the stuff in the cognitive issues section of this essay, is much more relevant from a work perspective than what I previously wrote in this section about social issues. As such, the contents of this section (below the horizontal line below) can be ignored.
+I’m going to update this section above the horizontal line. Before I wrote “The fourth reason I can't work is social”. And yeah, I do have social issues, but I always had social issues and people were stupid enough to give me job offers in the past, at least during certain points in my mood cycle. I think the social issues I have are more a problem for dating and relationships than they are for working. Like yeah, sure, I have never been in an official boyfriend and girlfriend relationship despite being a cisgender heterosexual male who is 30 years old despite making my personal best efforts to get into a relationship, but that’s not super relevant from a work perspective. The specific cognitive issues, the stuff in the cognitive issues section of this essay, is much more relevant from a work perspective. See this section: 
+
+* <a href="#Cognitive-Issues">Cognitive Issues</a>
+
+That section is more relevant (at least from an "ability to work" perspective) than what I previously wrote in this section about social issues. As such, the contents of this section (below the horizontal line below) can be largely ignored, at least from an "ability to work" perspective.
 
 Do I have friends in my life who I love and care about emotionally? Absolutely not. I barely have acquaintances. But again, that’s not super relevant from a work perspective.
 
@@ -79,7 +83,7 @@ Now I will admit there is A LITTLE relevancy. Happily married men tend to make m
 
 * <a href="#Motivation-Issues">Motivation Issues</a>
 
-I will leave the below about my social or personality issues that I wrote before here for historical reasons: 
+I will leave the below (below the horizontal line after the colon) about my social or personality issues that I wrote before here for historical reasons: 
 
 ____________________________________________________________________________________________________________________
 
