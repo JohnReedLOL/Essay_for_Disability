@@ -229,10 +229,26 @@ Now here is a quote by me from this essay showing my side of the story:
 
 > "... in the past I did outpatient behavioral health at Larkin Hospital and the longer I did it the worse my depression got, and then it gradually got better after I didn't do it anymore. In practice I don't think the outpatient behavioral health caused my depression to get worse, I think it naturally just so happens to get worse and better on its own and the timing just so happened to coincide with when I went to outpatient behavioral health, but I also don't think outpatient behavioral health made it any better either (this is the case with a lot of treatments I have tried)."
 
-Notice how when the hospital talks about it, they use the phrase "the patient failed" wheras when I talk about it, I explain why it didn't work. Also the hospital is the one who discharged me after the surveys they gave me showed my depression getting worse the longer I was on the program [I think when my insurance saw they started refusing to pay], but the hospital made it look in the medical records like I just walked out prematurely. I think hospitals try to shift blame for legal liability reasons, and also they pad the medical records with huge amounts of irrelevant fluff, which may make it harder to find mistakes that they made. For example, at the psychiatric hospital of Memorial Regional hospital in Hollywood, Florida, they thought I had depression because I was sleeping during the day, so they gave me an antidepressant. In actuality I had the opposite of depression [mania, which can be made worse by the antidepressant], and I had been sleeping during the day and awake most of the night for years, see the section on sleep issues: 
+Notice how when the hospital talks about it, they use the phrase "the patient failed" wheras when I talk about it, I explain why it didn't work. Also the hospital is the one who discharged me after the surveys they gave me showed my depression getting worse the longer I was on the program [I think when my insurance saw and they started refusing to pay], but the hospital made it look in the medical records like I just walked out prematurely. I think hospitals try to shift blame for legal liability reasons, and also they pad the medical records with huge amounts of irrelevant fluff, which may make it harder to find mistakes that they made. For example, at the psychiatric hospital of Memorial Regional hospital in Hollywood, Florida, they thought I had depression because I was sleeping during the day, so they gave me an antidepressant. In actuality I had the opposite of depression [mania, which can be made worse by the antidepressant], and I had been sleeping during the day and awake most of the night for years, see the section on sleep issues: 
 
 * <a href="#Sleep-Issues">Sleep Issues</a>
 
 But yeah, the psychiatric hospital prescribed the wrong drug. Stuff like that has happened multiple times before, but you almost never see "We messed up" in the hospital electronic medical records for legal liability reasons (ex. hospital doctor malpractice, etc.). I personally find this frustrating.
 
 Bonus Paragraph 3 completed: Oct 26th, 2024 
+
+<ins>Bonus Paragraph 4:</ins> 
+
+This is an update. I posted the following in the Reddit AskNeurology forum: 
+
+https://www.reddit.com/r/askneurology/comments/1ghg9f5/should_i_shrug_this_off_as_conversion_disorder/ 
+
+A neurologist replied: 
+
+https://www.reddit.com/r/askneurology/comments/1ghg9f5/comment/lwqepon/ 
+
+In particular, this point from the essay wasn't correct: 
+
+> "the reality is that pseudoseizures virtually always resemble whole body shaking or passing out or in rare cases staring into space, not the symptoms I've had which more closely resemble simple partial seizures or focal aware seizures (but without the accompanying readings on an EEG, so they're not "real" focal aware seizures), and I can't find any record of pseudoseizures having ever resembled what I have" 
+
+In particular, the neurologist said that wasn't correct because pseudoseizures (non-epileptic seizures) can in fact resemble simple partial seizures or focal aware seizures and that I have "functional neurological disorder" (conversion disorder without cause by psychological trauma). I talked to another doctor about it and he said "We can't do anything about that". I tried maybe 5 different mood stabilizers and 10 different antipsychotics and nothing had any effect on my "functional neurological disorder".
