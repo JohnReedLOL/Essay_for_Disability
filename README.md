@@ -20,7 +20,7 @@ Table of Contents (click on a link to jump to that section)
 * <a href="#Cognitive-Issues">Cognitive Issues</a>
 * <a href="#Sleep-Issues">Sleep Issues</a>
 * <a href="#Transportation-Issues">Transportation Issues</a>
-* <a href="#Social-or-Interpersonal-or-Personality-Issues">Social or Interpersonal or Personality Issues</a>
+* <a href="#Social-or-Interpersonal-or-Personality-Issues">Social/Interpersonal/Personality/Psychological Issues</a>
 * <a href="#Motivation-Issues">Motivation Issues</a>
 * <a href="#Additional-Information-Including-Neurological-Symptoms">Additional Information Including Neurological Symptoms</a>
 * <a href="#Sign-Off-With-Date">Sign off with date</a>
@@ -106,7 +106,7 @@ ________________________________________________________________________________
 <a name="Social-or-Interpersonal-or-Personality-Issues"></a>
 
 
-### Social or Interpersonal or Personality Issues
+### Social/Interpersonal/Personality/Psychological Issues
 
 
 This used to be the longest section of the essay, but I’m rewriting it to make it shorter and more up-to-date. My personality issues fall into two categories: ego size issues and social functioning. 
