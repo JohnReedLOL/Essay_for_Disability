@@ -254,6 +254,10 @@ Source: https://i.pinimg.com/originals/64/a9/1f/64a91f1c475346500787abecf76a58d6
 👆 It separates a Narcissist into the part that people see, like when meeting them for the first time out in public, and the part that people don’t see, like that they record in writing while in private or maybe that you only see inside the privacy of their house with their close family or on the phone with their close family. The part that people don’t see is what is said to be “below water” when it comes to “The Narcissist Iceberg”. But yeah, in general that part is a lot less appealing or attractive to other people than the initial impression.
 
 
+Note: I try to be precise and factual as much as possible, so I'm not much of a liar, but pretty much all the other points in the Narcissist Iceberg image above apply to me. My Dad, John Reed Sr., is a much bigger liar than I am (note that there are multiple different types of lies and lying by omission is one of them).
+
+
+
 ____________________________________________________________________________________________________________________
 
 
