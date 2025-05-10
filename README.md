@@ -439,7 +439,7 @@ https://en.m.wikipedia.org/wiki/Narcissistic_personality_disorder
 
 
 
-👆In that page it says there are two main subtypes of NPD: Grandiose and Vulnerable. I think I lean more towards the Grandiose subtype of NPD. Like I regularly fantasize about becoming or being President of the United States or maybe some sort of dictator or king, even when I’m not happy or manic.
+👆 In that page it says there are two main subtypes of NPD: Grandiose and Vulnerable. I think I lean more towards the Grandiose subtype of NPD. Like I regularly fantasize about becoming or being President of the United States or maybe some sort of dictator or king, even when I’m not happy or manic.
 
 
 
