@@ -3,8 +3,16 @@
 
 
 
+
+
+
+
 This essay is also available on Google Drive at: 
 https://docs.google.com/document/d/14mocB-F96UiHw48CIMd0MvJLAWFxDCgAqwXC52QPA4Q/edit?usp=drivesdk 
+
+
+
+
 
 
 
@@ -18,12 +26,28 @@ Anyway, this is an essay (which turned into a journal) I wrote (over the course 
 
 
 
+
+
+
+
+
+
+
+
 ____________________________________________________________________________________________________________________
 
 
 
 
+
+
+
+
 Table of Contents (click on a link to jump to that section)
+
+
+
+
 
 
 
@@ -41,7 +65,19 @@ Table of Contents (click on a link to jump to that section)
 
 
 
+
+
+
+
 ____________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
 
 
 
@@ -55,7 +91,15 @@ ________________________________________________________________________________
 
 
 
+
+
+
+
 ### Introduction
+
+
+
+
 
 
 
@@ -65,7 +109,15 @@ Dear Social Security Continuing Disability Review,
 
 
 
+
+
+
+
 This essay/journal is to explain to you why I’m not working. The short answer is that I can’t. The long answer is that there are six reasons. I know that you are overworked and understaffed, so feel free to skip this essay if the information I already provided is enough for you to make the decision to continue my benefits. In case the already provided information is insufficient, the six reasons I'm not working are that I have cognitive issues, sleep issues (ex. Non-24-Hour Sleep-Wake Disorde), an inability to safely drive a car, an inability to form/sustain close bidirectional relationships (or really any real relationship) with other people (except for maybe my mother), a lack of motivation (although this varies based on my mood), and lastly I don't want to (I mean I felt that I wanted to work and have tried but it never worked out in real life for various reasons). I added extra sentences at the ends of paragraphs and I added extra paragraphs at the end of the essay in an out-of-order manner, so dates of when things were written will not appear in chronological order. Also, even though exact dates appear, the reason they appear is not because I have a good memory for exact dates. Rather, I keep a link to this paper as a Google Doc saved on my phone and make additions to it with the current date at the time of writing mentioned in the addition. Other dates came out of things like online records and medical records. This body of writing started out as an expository essay and over time became a personal journal that I revisit regularly. The section on my social/interpersonal/personality issues is more to give a better idea of what is wrong with me as a person in a personal sense.
+
+
+
+
 
 
 
@@ -75,7 +127,15 @@ ________________________________________________________________________________
 
 
 
+
+
+
+
 <a name="Cognitive-Issues"></a>
+
+
+
+
 
 
 
@@ -85,7 +145,15 @@ ________________________________________________________________________________
 
 
 
+
+
+
+
 Anyway, the first reason I'm not working is cognitive issues. I made a work attempt in October to November 2019 and I lasted less than 30 days because I cognitively could not do my job. You have to learn things when you start a new job and I couldn’t learn. Either that or I'll make a little progress and then later I will revert to my previous ways and the progress will be unlearned (this is what previously happened when instructors tried to train me how to be a bus driver, see paragraph on why I can't drive) - training me to do a job is an issue. This next example happened at a work attempt before the latest one (I'm not sure exactly when the cognitive issues first started as they happened very gradually, like it definetely wasn't a sudden change like a head injury), but I remember one time I was told instructions that I was to follow when I got to my desk, and by the time I got to my desk I forgot the instructions. I actually asked the guy at work if I could use my cell phone to record his instructions because I knew that I have trouble remembering things that are spoken to me and it's illegal to record a conversation without the other person's consent in some US states, but he refused to give consent for me to record. I need procedures and instructions to be in written form because I am much more likely than other people to forget them when they're just spoken. I mean if someone says something short, immediate, and direct like "You pick up that box now" I can do it (with them possibly needing to repeat the simple instruction once or at most twice if I'm not paying attention) but real work related procedures usually have multiple steps and there's often a time gap between when I get told the procedure and when I have to execute it, so when it comes to real world work procedures I have problems. I've tried to write down things that were spoken to me before but I can't read my own handwriting when I write fast and when I write legibly I write very slowly (for this reason I gave up trying to write down notes when I was in school and I just learned the information by reading and sometimes underlining or highlighting the textbooks). Continuing on the related subject of memory related issues, on 11/18/2022, while on vacation in Washington D.C., I went to my hotel's front desk to ask for late check-in and they asked me my room number, and even though I had been in that room for a week and taken a photo of the room number with my phone, I still told the front-desk guy the wrong room number, so I have specific little memory issues. For example, on 2/15/2023 I walked from the kitchen counter to the cupboard to get a packet of oatmeal, and when I got back to the counter, there was already a bowl with a packet of raw oatmeal in it, so apparently I already got myself a bowl of oatmeal to microwave for breakfast even though I had no recollection of having done that. Sometimes I send myself emails containing things I need to do or remember in the future, and I noticed that I emailed myself the same reminder (only worded slightly differently) on May 6, 2023 at both 9:22 AM and 9:45 AM and I had no knowledge or recollection that I had done this twice, so I forget stuff in a way that is more normal for a person in retirement than for a 30 year old. Sometimes I walk between two places that I have walked between maybe a hundred times and I don't recognize my surroundings and need to check Google Maps to make sure I followed the correct path—there's a very specific kind of memory which is used for navigation (and also some other things) that I lack. Like I think other people, when they drive around or are working with a web of computer code, they have some sort of mental map in their head which I lack. Anyway, sometimes I cannot absorb information or have issues focusing. I used to be able to read hundreds of pages in a single sitting (for example I remember as a kid I read a thick "Harry Potter" book in under 24 hours), but all the recent times I tried to read a novel I gave up after a few pages. Not only am I not able to focus for more than a few pages, but I keep forgetting the characters and names and having to go back and re-read because I'm lost while trying to read a book. I used to read through lots of books for fun, but years ago I gave up on that entirely. On 10/11/2022 I watched a YouTube video about the guy who invented artificial ammonium based fertilizer and the poisonous chlorine gas used in World War 1, and when they mentioned his name again I was like "Who is that?" and had to check the video description because I kept forgetting his name - I watched the video twice and as of 10/12/2022 (the next day) I still don't remember his name as my memory for names is very bad (for example on 11/12/2022 I tried to read the Wikipedia page for the TV show *Parks and Recreation* because I was considering watching it for the first time and I couldn't read the page because I couldn't keep in my head who each of the characters in the show are). To give you an idea of just how unreliable my memory for names is, my closest family members other than my parents are my cousins Karina and Kristina and I mixed up their names from time to time for about 10 years—I still sometimes mix up their nicknames ("Kika" and "Kara"). I tend to remember the first sound of a word or name and mix up words or names that start with the same sound. For example, I have repeatedly mixed up the names of the newspapers "The Wall Street Journal" and "The Washington Post" as well as the names of my second cousins "Amanda" and "Aryana". I have the apps “Pandora internet radio” and “Panera Bread” on my phone and I sometimes search for or pull up one when I was looking for the other because they both start with the same sound. Changing subjects to my concentration issue, when I listen to an audiobook or podcast, even if it's the best audiobook or podcast I've ever listened to and I actually have motivation (which is rare), I keep having to rewind and relisten to parts because I keep spacing out. At a previous work attempt I remember at meetings other employees would talk and I could never follow and understand what they were saying (I mean when they said "Hello" I understood that but when they would talk about technical stuff I couldn't understand and follow even though I have a relevant education in the technical stuff). On 2/27/2023 I attended a city committee meeting because I had a comment that I wanted to say and I noticed I had the same issue keeping focus and following what people were saying that I described in the previous sentence even though what was being said at the city meeting was not technical. When I was around 26 or 27 I got my psychiatrist Dr. Pushka to prescribe me Adderall (an ADHD medication) to try to help improve my focus in hopes that that would allow me to work, and I noticed my attention, in particular my visual attention, jumped around all over the place less, but my other cognitive issues like lacking a certain form of memory were not improved and so I could not do the computer programming job I used to do, and then after a month of Adderall I ended up needing a psychiatric hospitalization which might have been caused by the Adderall (Adderall can cause manic or psychotic episodes in the bipolar or schizophrenic), so I don't take Adderall anymore (and also my current psych doctor APRN Matamoros is under Memorial Outpatient Behavioral Health which doesn't prescribe controlled substances like Adderall). Dr. Pushka and I knew ahead of time that Adderall can trigger mania or psychosis in some people with bipolar disorder, but I risked it because I really wanted to work, and honestly I'm not even 100% sure if the hospitalization was caused by the Adderall because I took it for weeks before the hospitalization occurred, and Adderall doesn't take that long to work, so maybe the timing was a coincidence; I would have to take Adderall again for a month and have another hospitalization to know for sure that it wasn't a coincidence (but I have no plans to do that). When I was in kindergarten I was diagnosed with ADHD but I didn't receive any ADHD drugs (until I received the Adderall I mentioned in the previous couple sentences) because my parents were against the psychiatric medication of children. Anway, when I was a student in school I relied heavily on the textbooks because what was spoken in lecture did not stick in my head—if I had an exam question on something that was spoken in lecture but not written in the textbook I would normally get that question wrong. That was years ago, but switching back to more recent issues (like in year 2022), when I try to watch videos online on YouTube or Reddit I typically give up (or need to take a break) after a few minutes - simply watching an entire episode of a TV show is a feat for me. My concentration is sometimes longer than that, though, like on 8/16/2022 I managed to watch a 20 minute YouTube video with just one little pause, but it still surprised me how difficult that was for me given how funny and engaging the video was. On 9/20/2022 I watched an 11 minute episode of the children's cartoon SpongeBob SquarePants (each half hour TV block consists of two eleven minute episodes) and that was hard for me focusing wise—I lost concentration around 9 minutes in due to a pseudoseizure that resembled a simple partial seizure (focal non-impaired awareness seizure - see later on in this essay for an explanation of what that is—it’s not the whole body shaking that people typically think of when they think of a seizure—it feels to me more like a light switch going off in my brain and then weird sensations, experiences, or stuff in my brain happens). On 11/16/2022 I made it through an episode of SpongeBob SquarePants without experiencing one of those pseudoseizures until after it ended, so my pseudoseizures are pretty random and vary depending on the day. The pseudoseizures are very distracting and happen to me constantly, on most days, but again they're pretty random—there is no visible trigger or known cause. Anyway, I keep little notes that tell me how many minutes into a TV show I watched on my laptop because I often can't focus long enough to watch a whole episode in one sitting. Also sometimes I have to watch YouTube videos at slow speed, like 80% speed or 85% speed, to catch all the spoken words. I don’t know why, but I definitely noticed cognitive issues that developed with my psychiatric ones, and they haven't improved and tend to stay about the same or get worse with time (like over the long term). 
+
+
+
+
 
 
 
@@ -95,7 +163,15 @@ This paragraph was written at a later point in time than the previous; I’m add
 
 
 
+
+
+
+
 Typically this next paragraph (which was mostly written before the previous one) would talk about the second reason I'm not working, but instead I'm going to go on a tangent where I talk about the ramifications of having cognitive issues more. I know you have to be severely retarded for your IQ to be low enough to qualify for disability based on low IQ. I do not believe I am severely retarded. I used to have excellent cognitive abilities in specific areas, actually. The first time I took the SAT (college entrance exam), I scored a perfect 800 out of 800 on the math section and a 720 out of 800 on the reading section, for a combined SAT score of 1520 out of 1600. I studied long and hard for that exam, but it's an impressive score nonetheless. Like if you Google “average SAT score Harvard”, it says that the typical SAT score for a Harvard accepted student is 720-780 on the reading and 740-800 on the math. So basically my SAT score was at Harvard level the first time I took it (and I raised my reading score to 740 the second time I took it). Like out of every 100 people who took the SAT, only about 1 or 2 scored higher than me. My cognitive abilities are less than what they were, but I don’t believe I’m retarded. That being said, my cognitive issues are a severe hindrance. The third reason I’m not working (I talk about it more three paragraphs later) is that I can’t safely drive anymore, but I used to go on highway drives that were hours long (I think I could still drive on a highway without hitting anything as long as I don't have to change lanes in traffic too much, but despite that I can't drive in cities). Now I can only safely drive in the gated neighborhood of my mother’s house where I live, where there are no traffic lights, almost no traffic, a 20 mile per hour speed limit, and wide streets. Like my basic abilities are still there, they’re just impaired in specific ways or in specific situations. Having impaired cognitive functioning is a severe limitation because it reduces you to things that cognitively (almost) anyone, even a high school dropout, special needs student, person with a learning disability, elderly person who couldn’t afford to retire, or someone who just got out of prison can do. And these people who lack talent, cognitive ability, or skill are all competing for the same set of shitty, low-paying jobs, resulting in high unemployment rates for these people where they would be lucky to land any job, even one that does not pay enough to live independently on. A year after I graduated with my Bachelor of Science in Computer Science, I had multiple competing jobs offers and ultimately accepted an offer from Amazon for $150,000 a year on full-time W-2 (not including great health, dental, and vision insurance, and a little bit of vesting stock) in year 2016 for a junior or apprentice level position in an area where my rent in an ideal location was $2,350 a month. It is also of note that $150,000 a year was for an entry level position in big tech—within two years of being hired you are expected to actually know how to do the job independently, at which point you are promoted from "junior developer" to "senior developer" and your total compensation roughly doubles (mostly because the amount of vesting stock increases), or they fire you because you can't learn how to do the job (which was my problem). Before it became apparent that I sucked at the job itself, employers were competing with one another to attract me to their place of work because I had done so well on the interview coding tests (and also because I managed to distort the truth successfully on the non-technical portion of the interview, but most people distort the truth when they're trying to get a job). Anyway, cognitively the coding tests are very different from the day-to-day job; the coding tests are more like a type of standardized exam or a series of brain-intensive puzzles to test how smart you are because smart people tend to learn fast and do well at the job. And I was really smart (at least in the specific areas they tested). I don’t have those cognitive abilities anymore. I have no talents or special abilities (and in my teenage and adult life I had tried for years at everything from singing to piano to acting to pre-medicine to leadership and been bad or very bad at everything I tried). I have no leadership skills or special connections—I'm not even really friends with anyone (at least not in the sense that I am their friend and also they are my friend). I do not have a personality that is desirable to employers or skills that are desirable to employers (I mean I still have a degree but I can't do the job that the degree is supposed to prepare me for). Before I was awarded SSDI but after I was no longer able to do the high paying computer coding work that I used to do (and I honestly tried my best—like I said my last work attempt lasted less than a month) I tried to get a job that did not require cognitive abilities. I made a resume where I put down that I used to work for big tech companies but am no longer able to do that work and applied to everywhere I could. I got an interview at an ice cream parlor. They asked about my work history and I said I developed a disability and cognitively couldn’t do the high paying work anymore. The manager interviewing me expressed concern that I might forget how to mix a smoothie or something. I did not get the job, but I saw someone else who they hired and noticed how personable, smiling, good-looking, and prosocial they were. I didn’t have a chance. I can be friendly with another person initially, but it's superficial and I can't keep it up long-term. A second place interviewed me to be a food runner (a person who delivers food from the kitchen to the table), and the hiring manager asked me about my educational background (my resume had the answer but apparently he didn't read it). I truthfully answered that I have a Bachelor of Science in Computer Science, and he was like "bachelor's in computer science?" and didn't hire me. I think he was probably expecting me to have no education beyond high school. A third place I tried to apply to was a local shop, and they said they wanted someone who spoke both Spanish and English (because South Florida has a lot of Hispanic people), but I only spoke English, and I didn't even take Spanish classes in school (in middle school and high school I took French, and I only remember a handful of French words anyway). Speaking both Spanish and English is a common request of employers in my area and I doubt I could learn Spanish—when I took French as a student it was one of my worst if not my worst class (I was always good at subjects that required logic like algebra and bad at subjects that required rote memorization, and learning foreign language terms and irregular verb conjunctions was entirely rote memorization without clear logic). Ultimately after I couldn't do professional computer coding work anymore but before I was awarded disability, I sent out more job applications than I ever had, got hardly any interviews, and none of those interviews resulted in me getting an offer, even though the offer would have been for $10 an hour whereas I used to work for $86 an hour on my W-2 tax form (and didn't need to know Spanish). And nowadays (I’m currently typing in October 2022 but this started years earlier) I sometimes experience muscle rigidity and involuntary muscle contractions (not necessarily at the same time—I don’t know if they’re from the antipsychotic medication I'm on or if it’s another weird unexplained neurological symptom—I talk about the weird neurological stuff more in a later paragraph of this essay) and about half the time I can’t walk or even bike far enough to get to those local places I applied to anymore and I can’t drive there myself either so even if a local employer hired me and even if I didn’t have a sleep disorder (I talk about that more two paragraphs later) I would still have problems. I bought an aluminum kick scooter and found that on some days when I have difficulty walking I am able to use the scooter, but on other days I can't walk or scooter more than a couple hundred feet, so it varies from day to day. Some days I walk while sort of hunched over, using the kick scooter as a sort of cane on wheels. I have tried to get (or at least considered) every job I could possibly think of and for one reason or another I couldn’t do or get any of them. Heck, I even replied to an advertisement for the armed forces and they didn't want me. On 11/29/2022 I got a text from the Marines after I replied to their internet ad, explained my situation to them, and they said they can't employ anyone with a schizophrenia (or in my case schizoaffective disorder, bipolar type) diagnosis, even for non-combat roles. Even bipolar disorder (which I was diagnosed with before being given a diagnosis of schizoaffective disorder or bipolar schizophrenia) isn't allowed without a special waiver which the military hasn't been giving out. They said even for non-combat roles you need to pass basic training including firearm training and thought I wasn't qualified to be trusted with a firearm (which makes sense), and also I'm not in the physical shape necessary to be able to pass bootcamp (on some days I can't walk more than a few hundred steps in total). Speaking of other jobs I tried to get, in late December 2022 I applied to be a sperm donor and they didn't want me, presumably because they didn't want anyone with potentially genetically inheritable mental illness. I saw on social media a post about a remote part-time job that pays an average of over $100,000 a year with a maximum of 90 days training and no degree required, but that turned out to be a scam. Over the years I tried or applied to, or at the very least seriously considered, every way of making money that I could possibly think of.
+
+
+
+
 
 
 
@@ -103,10 +179,16 @@ Typically this next paragraph (which was mostly written before the previous one)
 There is another aspect of cognitive issues that I would like to talk about before I go on to the second reason I'm not working. Cognitive issues can be very non-obvious and hard to detect or predict. For example, I saw a guy on a TV show who had an issue with his brain where his memory lasted 30 seconds. He developed this issue late in life. But even though he forgot everything new, he was still able to read and play piano sheet music just by looking at it. I took private classical piano lessons for 6 years and I was never able to just look at two-handed piano music on paper and play it (unless I had the whole song memorized before and could play it without the sheet music). Sheet music has horizontal lines where the position of the note on the line determines which note to play. The left-handed (bass clef) notes look like this: 
 
 
+
+
 ![Bass clef notes](https://i.imgur.com/WWuzAq9.jpeg)
 
 
+
+
 Source of image: https://wpe.hoffmanacademy.com/wp-content/uploads/2021/07/Bass-Clef-Notes-1.jpg 
+
+
 
 
 Anyway, for the left hand (bass clef), if a note is on the second horizontal line from the bottom, it's a "B" (see image above). That being said, if I saw that note on the piano sheet music, I wouldn't know it's a "B" just by looking at it—I have an acronym that I say out loud whenever I look at a left-handed note, "Growling Big Dogs Fight Animals", where the first letter of each word ("G, B, D, F, A") corresponds to the left-handed note on that line. So the second word of the acronym is "Big", which starts with a "B", so a sheet music note on the second line from the bottom for the left hand is a "B".  I would go through the music, repeating the acronym over and over, and writing down for each left-handed note which note it is on the paper before playing it (in practice I didn't have to do this for every single note because some notes are right next to each other and in that case I knew which note it was without writing it down). For some reason I was able to learn the right handed notes and know what they were just by looking at them, without needing an acronym, but for the left handed notes no matter how much piano I played or for how many years, I was never able to learn (if I had to guess why I think that maybe it has something to do with the fact that I learned the right handed notes at an earlier time, but I really don't know). By using the acronym and writing down the notes, I was able to play lots of advanced pieces of classical music by the great composers like Mozart, Beethoven, and Bach. People just assumed that if I could play all these advanced pieces of classical piano music, that I could also read sheet music, but at least for the left hand I could not. And one might assume that because I was able to memorize the correspondence between the lines on the sheet music and the notes for the right hand (for the right hand the notes on the lines are "E, G, B, D, F" instead of "G, B, D, F, A") that I could do the same for the left hand, but I could not. No IQ test or other neurocognitive test would have predicted this. For various tasks I developed specific workarounds. For example, while reading, I may constantly lose focus and lose my place, but if I underlined or highlighted each word as I read it (or at least followed along with my finger) and I lost focus, I could resume reading from the last underlined word (or from where my finger is). Sometimes I move my bookmark down a line for each line of text that I read (again, I haven't been able to read an entire book from the front cover to the back in over four years). Or I may forget the names and identities of characters, but if every time a new character was introduced I put a box around it and a star on the side of the page, and I saw that character's name again, I could go back to the star on the previous page, reread the introduction that I put a box around for that character, and be reminded of who they are (I think some novels have a section that explains who the characters are, which would be immensely helpful to me). Some of these workarounds only work if the text is on paper because if the text is on a computer screen, I can't mark it up, which can result in me having trouble. Workarounds are great, but sometimes those workarounds can be made unavailable to me, which can cause unexpected problems. For example, the college entrance exam (the SAT) and the graduate school entrance exam (the GRE) have pretty much identical questions for the math and the reading sections, the main difference is the SAT is (or at least was) on paper and the GRE is on a desktop computer. When I studied for the GRE (which was after a couple years of working—around the time I was losing my ability to do my job), I did practice tests that were on paper. When I got to the actual test, it was on a desktop computer. This significantly worsened my score. Like if you just saw how I performed on the paper practice tests, you would predict a similar score on the actual computer test, and your prediction would have been wrong. This is the issue with neurocognitive testing, where they try to predict how you would do in the real world based on tests that are different from the real world. And sometimes those differences are small, like putting text on an electronic screen instead of on paper, but they can produce unexpectedly large effects. Or sometimes certain brain issues of mine are significantly worse on one day than on another, and the test just so happens to be on a good day (for example on some days my pseudoseizures which resemble simple partial seizures are significantly more intense or frequent than on other days). When I took the tech company coding tests, specific cognitive issues popped up, where slight differences in the test between one company and another (for example which coding tools, text editors, programming languages, etc. were allowed) made a massive difference in my score (partly because I had developed specific workarounds using specific tools, text editors, programming languages, etc.). I did fantastic at Amazon's interview, but the interview tasks were not the same as the actual job, and there were things they didn't test at the interview that I had serious problems with at the actual job, and nobody predicted those problems ahead of time (if they did, they would never have given me a job offer). Ultimately my cognitive issues got to a point where I could not work around them anymore (and to be honest I even had problems that I concealed from management before then in order to hold onto my job for as long as possible). From what I've seen, it is in an employer's best interest not to make special accommodations for specific brain issues, especially in the interview stage, because people who need special accommodations for one brain issue (like a specific tool or text editor) tend to end up needing special accommodations for other brain-related things or be unable to do other things using their brain that employers weren't expecting them to be unable to do. Employers want people who can do the job regardless of what gets thrown at them and who can serve as perfect replacements for the person who did the job before them. And yeah, there are special laws in place for people with disabilities, but they are mainly for physical disabilities, like needing a wheelchair or a prosthetic limb or something like that. Brain disabilities are less obvious and harder to predict and make accommodations for. Sometimes people with brain related disabilities need unique accommodations that take time, money, and effort to provide and other people are unwilling (or just don’t care enough) to provide those accommodations. People tend to assume that other people's brains work like their brains. For example I heard of someone who could do calculus but couldn't do two digit arithmetic in their head or tell time by looking at a clock with hands for the minutes and hours. Like if they had to get the slope, or derivative as it's called in calculus, of the function "y = x\^7" (y = x to the 7th power) they could take the derivative and get "slope = 7x\^6" (slope = 7 times x to the 6th power) by multiplying x by the exponent, 7, and then reducing the exponent by one (changing the 7 to a 6), but they needed to use their fingers to count out the numbers. Personally, I would have never guessed that a person who is unable to do "23 - 15" in their head would be able to do calculus, but it's possible. Like when it comes to brain disabilities, things aren't obvious or predictable the way physical disabilities can be. I didn't have to take any neurocognitive tests when I originally applied for disability and I personally am afraid of having to take one to prove my disability because neurocognitive tests can't predict real world performance the way a real job can test real world performance because the test and the real world are not the same. I have tried multiple real world jobs before and been unable to do them, and I don't believe that looking at an overall IQ test score or other neurocognitive test score would have resulted in expecting that. Ultimately the best test for ability to do a job is to actually be put on the job and to see, at the actual job, how you do, and when that happened to me I did worse than everybody else (in a group of about 20, including a few people who were hired after me) despite what any test like the coding test predicted. I’ve done multiple jobs before and I was bad at all of them despite what the SAT test or any other test would have predicted. Other people got hired as an apprentice or junior, learned how to do the job independently, and then got promoted (with an accompanying pay bump at the same employer), but I never received any promotion at any job ever.
@@ -118,7 +200,19 @@ Anyway, for the left hand (bass clef), if a note is on the second horizontal lin
 
 
 
+
+
+
+
+
+
+
+
 ____________________________________________________________________________________________________________________
+
+
+
+
 
 
 
@@ -128,7 +222,15 @@ ________________________________________________________________________________
 
 
 
+
+
+
+
 ### Sleep Issues
+
+
+
+
 
 
 
@@ -138,12 +240,24 @@ Exiting the tangent where I wrote about cognitive issues, the second reason I ca
 
 
 
+
+
+
+
 This is an update on Jun 9, 2023, but I discovered something people who don't have Non-24 may not understand about sleep after discussing my condition with a person who doesn't have Non-24. The guy who I was discussing my condition with thought sleep works kind of like food. Like if you miss breakfast, you just eat a bigger meal later on. Sleep doesn't work like that. Like if every day you get in bed at 10PM and get out of bed at 7AM and one night for some reason you have insomnia and can't fall asleep all night, you won't just start sleeping uninterrupted from 10AM to 7PM. You might be able to take a midday nap, like a Siesta (which I know they used to do in Spain), but you won't be able to have a full-length, deep, uninterrupted sleep with sunlight in your room that you can see on the inside of your eyelids when you close your eyes. Like imagine that such a person has a device hooked up to their head (like an EEG machine) that can detect when they are asleep by reading their brainwaves and it will shock them awake after a short time if they fall asleep during any time that's not between 10AM and 7PM. The idea is to try and force them to sleep each day between 10AM and 7PM despite the fact that that's not naturally when they feel tired. Assuming they still get regular daylight exposure, they will never sleep uninterrupted throughout those hours even though they get woken up when they sleep during any other hours. Instead what will happen is that at night, when they normally sleep, they will fall into brief "microsleeps" (defined as "involuntary episodes of sleep lasting a few seconds, sometimes with eyes open") and then get woken up. Like they will constantly be in this sort of half-asleep state, especially at night during the time they sleep naturally. They will not just naturally start having a full night's sleep between the hours of 10AM and 7PM, especially if they get normal daylight exposure and don't have any sort of sleep disorder. Like people are hardwired to have a certain time when they get tired and a certain time when they are most alert and you can't force them to sleep during the time when they're most alert, even if they're sleep deprived, especially if it contradicts with their daylight exposure. Non-24 is a debilitating condition for the people who have it and in general if they are forced to be awake during the day, instead of adjusting to their forced sleep time, they instead just fall into "microsleeps" or end up in a half-asleep state during the day and still can't sleep at night. Trying to get a person with Non-24 to sleep at night is kind of like getting a person with a regular sleep schedule and regular daylight exposure to sleep every day from 10AM to 7PM. Like it just doesn't work. Oh, this is an update on March 1, 2024, but my sleep became normal for like a month and then I went back to sleeping during the day and being awake at night. I don't know what's going on. This is an update on Sept 7, 2024, but I had a two or three week period of waking up between 2 AM and 5 AM fully rested and not wanting to go back to sleep. Again, I don't know what's going on or why, and at this point I don't care. I just go to sleep when I feel tired and sleep until I'm done and I don't worry about the time. If I sleep at night or sleep during the day I don't care. This is an update on Sept 17, 2024, but I just woke up at 11:30 PM after nine straight hours of sleep. From now on I'm just not going to keep track of my sleep. It is more or less random now and I don't care and I am unwilling to lose sleep to accommodate any employer. This is an update on Dec 11, 2024, and I am not exhibiting the average of 1-hour delay in my sleep schedule every 24 hours characteristic of Non-24, but my sleep is still not normal or good for working a nine-to-five job and I will not work a job half-asleep.
 
 
 
 
+
+
+
+
 ____________________________________________________________________________________________________________________
+
+
+
+
 
 
 
@@ -153,7 +267,15 @@ ________________________________________________________________________________
 
 
 
+
+
+
+
 ### Transportation Issues
+
+
+
+
 
 
 
@@ -163,7 +285,15 @@ Anyway, having finished the section on sleep, the third reason I can't work is t
 
 
 
+
+
+
+
 ____________________________________________________________________________________________________________________
+
+
+
+
 
 
 
@@ -173,7 +303,15 @@ ________________________________________________________________________________
 
 
 
+
+
+
+
 ### Social/Interpersonal/Personality/Psychological Issues
+
+
+
+
 
 
 
@@ -183,7 +321,15 @@ This used to be the longest section of the essay, but I’m rewriting it to make
 
 
 
+
+
+
+
 First, ego size issues. I remember in grade school writing my name on the whiteboard in all capital letters, bigger and higher up than anyone else’s name. It reminds me of the way I saw Donald Trump’s name on a billboard once, higher up and in bigger letters than any other name on the billboard. That being said, unlike Donald Trump, I was never the CEO or President of anything in my life, not even class President or the President of any club. A woman with the body of a potato who I went on some dates with in the past described me as “narcissistic”, which is reminiscent of Narcissistic Personality Disorder (NPD). I had serious problems working on teams with other people, both in university and in a work setting. I remember in high school wanting to go to Harvard, the most selective university, or maybe if Harvard rejected me I would go to Duke and get married at the Duke chapel, the most magnificent chapel with the longest waiting list to get married there (in the end every single Ivy League school including Harvard and Duke rejected me despite applying with a 1540 out of 1600 SAT score and also I ended up unable to find a wife, ever, despite consciously wanting one). Anyway, the following is from my Form SSA-3373 from my 2024 Continuing Disability Review of my SSDI benefits:
+
+
+
+
 
 
 
@@ -193,7 +339,29 @@ First, ego size issues. I remember in grade school writing my name on the whiteb
 
 
 
-👆 As you can see, that’s a very narcissistic response. I seriously wanted to become President of the United States and then end democracy, become dictator of the United States, and then from there The King of planet Earth, but that’s insane. I was kinda manic/delusional at the time. I acknowledge now that that will NEVER happen. Nobody is interested.
+
+
+
+
+👆 As you can see, that’s a very narcissistic response. I seriously wanted to become President of the United States and then end democracy, become dictator of the United States, and then from there The King of planet Earth, but that’s insane. I was kinda manic/delusional at the time. I acknowledge now that that will NEVER happen. Nobody is interested. 
+
+
+
+
+But yeah, my ego tends to be big. For example, as of May 9 2025, this is my cellphone background, a giant portrait of me: 
+
+
+
+
+![Phone background](https://i.imgur.com/5WLngzP.jpeg)
+
+
+Image source: https://imgur.com/a/LwugD4g 
+
+
+
+
+👆 I love that giant portrait of me so much. But yeah, maybe Donald Trump can be kinda similar sometimes in a way (but much more charismatic, and better at lying). I was also known in grade school for making unfiltered comments which sometimes elicited large or unexpected (from my perspective) reactions from the class. In grade school I was also given the nickname “Sheldon” from the TV sitcom *The Big Bang Theory* and people (who have no expertise in autism) have told me that I can come off as having autistic or socially impaired traits. I have been described as “like a cross between narcissism and autism”. So yeah, ego size and social functioning are an issue for me (which are not fixed by any psychiatric medication).
 
 
 
@@ -203,7 +371,15 @@ Anyway, second, this paragraph will deal with my social functioning. DDS (Disabi
 
 
 
+
+
+
+
 This is a side note, but I don’t know if I’m capable of loving anyone other than myself (not including having a crush on, an obsession with, or being infatuated with a woman i.e. “in love”). For example, my parents got me a pet parrot when I was 12 or 13 years old, and he’s a cute parrot, and I wanted him at the time, but I don’t love him. My parents take care of him. Sometimes when I’m eating fruit or nuts or something like that I’ll share some with him, but the bulk of chores involving him falls on my parents. When I was away from home, like at university or work, I never missed him or thought about him. When my mom is away from him she’ll ask to FaceTime on the iPhone with him, but I never did that. I am fairly certain my mom loves him more than I do. For example, if I found out my parrot were dead of natural causes I don’t think I would mourn much (less loud squawking, more sleep for me), but I’m sure my mother would be devastated. Some people seem to really love their pet so much, but I don't. Also, this neighbor guy who I sometimes play pool (billiards) with said that I have abnormal boundaries, like an abnormal division between what I communicate only in private vs what I make public (for example, this whole essay is public at the top of my social media like my Facebook). But yeah, I don’t know if what I have is a lack of love, sympathy, empathy, care for the feelings of others, or some sort of social/interpersonal/boundaries/personality thing or what, but there is some sort of lacking that I have, and it affects my social/interpersonal functioning. I could talk more on this subject, but it would be a lot of theoretical hypothesizing and musing without hard proof so I think I’ll just end this section here. If you're still not clear on what is up with my personality, maybe go through my Social Security Administration (SSA) form SSA-3373 and that might give you a better idea:
+
+
+
+
 
 
 
@@ -213,7 +389,15 @@ https://github.com/JohnReedLOL/Essay_for_Disability/blob/main/JohnMichaelReed_Di
 
 
 
+
+
+
+
 👆 Note you may need to download that file (JohnMichaelReed_Disability_Behavioral.pdf) and then open the PDF in order to view it. Also note that on my long-form CDR (form SSA-454-BK) and on my form SSA-3373 I wrote that I have "Grandiose Narcissistic/Sociopath/Psychopath Personality Disorder" or that I am a "Grandiose narcissistic psychopath", but in retrospect I don't know if those self-diagnoses (which I made while manic) are entirely accurate - I don't know exactly what I have. At one point my therapist thought it was some sort of autism, but I grew up without having symptoms of autism, was tested for autism by a psychiatrist as a kid, and was found not to have it, so I don’t think it’s autism. 
+
+
+
+
 
 
 
@@ -223,7 +407,15 @@ I’m adding this paragraph on April 16, 2025. In therapy I noticed that growing
 
 
 
+
+
+
+
 Anyway, with this shift from my Mom to my Dad I saw numerous changes in me. Not just personality changes, but also cognitive changes too. For example, I began to struggle with learning certain things. For example, I had this one English teacher in 10th grade, Mrs. Linda Winrow. I didn’t like her, like one time while reading in class I pronounced the country “Thailand” like “Thigh-land” and she made fun of me (“Oh, you think people show their thighs in Thigh-land, ha ha ha”) and other kids laughed at me. I wanted to yell at her about how the fact that English is not spelled as phonetically as other languages is a flaw in the English language that should be fixed rather than cemented, but instead I just seethed in anger (grit teeth, veins bulging on my forehead). But yeah, she’s a sarcastic lady and I didn't like her. Anyway, every week in her class, at the end of the week, there was this SAT vocab quiz which consisted of 10 fill-in-the-blank questions with no word bank. There was no multiple choice either, we just had to write the correct word spelled correctly in the right blank of a sentence. I went to this grade school called NSU University School in Davie, Florida, and in that English class, my grade’s valedictorian sat next to me. He would spend like 5 minutes before every SAT vocab quiz just staring at the words and their definitions, then Mrs. Linda Winrow would tell everyone to stop studying and she would put the vocab quizes face-down on the students’ desks, and this valedictorian boy would just immediately write all 10 vocab words and their definitions on the back of the quiz. He would then use what he wrote as a word bank while writing in answers. I tried to do the same thing as him, but even when I studied more than him, I couldn't remember all 10 vocab words. I would do badly on the test, hear “study more”, block off more time on my calendar for studying the words, use that blocked off time to study, and was still unable to remember all 10 words. It got to a point that I was spending 5-10 hours every week spread across multiple days studying for this small weekly vocab quiz and still couldn't remember all the words. I used to think that as I shifted from my Mom to my Dad (like I described in the prior paragraph), that I also developed some sort of physical, real cognitive problems or learning disabilities, but lately I’ve begun to suspect something else. My Dad speaks out loud very little (at least to me), and when he does speak he tends to use a limited set of words rather than using the specific, precisely correct word for a given situation. Maybe deep down, at a sort of subconscious/involuntarily level, I just didn't want to learn or recall Mrs. Linda Winrow’s SAT vocab words, and no matter how much time I blocked on my calendar or spent sitting at a desk studying them, my conscious thoughts/efforts couldn't override that. I don’t know, it’s just a theory or a hypothesis.
+
+
+
+
 
 
 
@@ -233,32 +425,59 @@ But yeah, sometimes I think that deep down, at a sort of involuntary/subconsciou
 
 
 
+
+
+
+
 This is an update on April 28, 2025. I read the Wikipedia page for Narcissistic Personality Disorder here: 
+
+
 
 
 https://en.m.wikipedia.org/wiki/Narcissistic_personality_disorder 
 
 
+
+
 👆In that page it says there are two main subtypes of NPD: Grandiose and Vulnerable. I think I lean more towards the Grandiose subtype of NPD. Like I regularly fantasize about becoming or being President of the United States or maybe some sort of dictator or king, even when I’m not happy or manic.
+
+
 
 
 I saw this image online called “The Narcissist Iceberg” that really resonated with me: 
 
 
+
+
 ![Narcissist Iceberg](https://i.pinimg.com/originals/64/a9/1f/64a91f1c475346500787abecf76a58d6.jpg)
+
+
 
 
 Source: https://i.pinimg.com/originals/64/a9/1f/64a91f1c475346500787abecf76a58d6.jpg 
 
 
+
+
 👆 It separates a Narcissist into the part that people see, like when meeting them for the first time out in public, and the part that people don’t see, like that they record in writing while in private or maybe that you only see inside the privacy of their house with their close family or on the phone with their close family. The part that people don’t see is what is said to be “below water” when it comes to “The Narcissist Iceberg”. But yeah, in general that part is a lot less appealing or attractive to other people than the initial impression.
+
+
 
 
 Note: I try to be precise and factual as much as possible, so I'm not much of a liar, but pretty much all the other points in the Narcissist Iceberg image above apply to me. My Dad, John Reed Sr., is a much bigger liar than I am (note that there are multiple different types of lies and lying by omission is one of them).
 
 
 
+
+
+
 ____________________________________________________________________________________________________________________
+
+
+
+
+
+
 
 
 
@@ -272,7 +491,15 @@ ________________________________________________________________________________
 
 
 
+
+
+
+
 Anyway, finally going off that tangent about my social issues, the fifth reason I'm not working is that I have no motivation (note: this fluctuates over time with my mood, which changes to a very large extent with no outside interface despite me taking psychiatric medication). I often don't enjoy doing the things I used to enjoy (reading, watching TV/movies, listening to music, playing video games, browsing the internet, etc.), a symptom called "anhedonia" (note: in the first half of year 2022 I had severe anhedonia and actively desired to die and thought about killing myself repeatedly, but this changed to some extent in the second half of 2022). It’s not uncommon for me to want to die, and I spend most of my time laying in bed or just hanging out with my mother, who is the only person I am close to due to my lack of close friends, a girlfriend, or other close relationships. At the time of writing in year 2022 I don't have the motivation or concentration to do much of anything (except maybe watch less than a minute long TikTok videos of hot young women called e-girls doing cute dances)—like I wrote earlier in this essay, even paying attention for the entire duration of a TV show is a feat for me. My life is so pointless and I wish I were never born so that I wouldn’t have to go through the effort and the pain of committing suicide. I am a worthless individual. To be honest, what I really want and have wanted for years is for a doctor to quickly and painlessly put me to sleep forever. I have never believed in God (well maybe God created The Big Bang and then allowed everything in the universe to happen on its own according to the laws of physics from then on, but I definitely don't believe in Hell), so I have no fear of upsetting God or any religious rules by killing myself, and also I don't believe God put me on this Earth for any special purpose, so I don't see me dying as a loss or anything like that. Anyway, I tried three different antidepressants (Prozac, Viibryd, and Wellbutrin) and they didn’t help. Talking to professionals might have actually made it worse. I have literally nothing to live for and no psychiatric medication or talk therapy can change that. Heck, even when I don't feel sad or depressed at all, I think to myself that I wouldn't mind if I died; I serve no purpose. I don't know why I exist. I'm a total loser—I have failed at every significant thing I have tried to attain, from career success to relationship success. I was a very ambitious kid; I wanted to go to Harvard or MIT, become a psychiatrist or CEO, get married, have kids, and become a politician. None of my dreams in life materialized as I envisioned; I didn't even get close. Some Christians believe if you commit suicide that's a sin and can impact your ability to go to Heaven, but I don't believe in that stuff. Wanting a physician assisted suicide is not something that I only experience when depressed or anhedonic—I truly believe that there is nothing for me in this world and my life basically now consists of passing time doing pointless things like scrolling through Reddit or TikTok on my phone before I eventually one day die alone, single, with no children, having accomplished nothing. Oh, and this is an update on March 2, 2024, but my depression went away and I started enjoying things like music and then I stopped wanting to die, so it fluctuates over time.
+
+
+
+
 
 
 
@@ -286,12 +513,28 @@ Anyway, speaking of having nothing to live for, if I get kicked off disability, 
 
 
 
+
+
+
+
+
+
+
+
 ____________________________________________________________________________________________________________________
 
 
 
 
+
+
+
+
 <a name="Additional-Information-Including-Neurological-Symptoms"></a>
+
+
+
+
 
 
 
@@ -303,7 +546,17 @@ ________________________________________________________________________________
 
 
 
+
+
+
+
+
+
 Also, it is of note that the core, positive symptoms of my form of bipolar disorder, bipolar schizophrenia, or schizoaffective disorder (bipolar type) are not what make me unable to work. In the past, I did my job while I perceived the walls were shimmering (note that this might actually be a neurological symptom and not a schizophrenic hallucination, see later paragraphs). I showed up to work depressed but still showed up (when I was 13 or 14 I had depression so severe that I couldn't move or get out of bed, but the severity of my depressions since that first one have been less than that). I got fired for delusional manic psychosis, but that didn’t stop me from finding another job in the past. These other things like the specific cognitive deficits, sleep disorder, inability to safely drive myself, and social issues are what make me unable to work, not the core symptoms of my schizoaffective disorder (or maybe it's actually some form of bipolar disorder, I don't know). And my medication does not help with these non-core symptoms (in fact I don't even know if it helps with the core symptoms—I have so many symptoms and they all get better or worse or even vanish entirely all the time for no visible reason and with no intervention, so if I take a medication and then one symptom gets better or worse, or even goes away entirely, I don't know if that happened because of the medication or if the timing was a coincidence). Regardless of whether I take or don't take medication, I am still unable to work. To be honest the only reason I even bother with medication is I'm afraid of getting kicked off disability during a Continuing Disability Review if I refuse medication—my medication is (at the time of writing, before April 2023) in the form of a long-acting injection so it's not like a pill that I can just skip taking—if I refuse a nurse will note it and it can count as treatment noncompliance which can look bad during a disability case. Note it is now March 2nd, 2024 at the time of writing and I am no longer seeing a psychiatrist or taking medication (they didn't work), but I am trying to see a psychologist, Dr. Karilshtadt-Byk, instead.
+
+
+
+
 
 
 
@@ -313,7 +566,15 @@ One additional thing that I'd like to mention. I have experienced all sorts of u
 
 
 
+
+
+
+
 Here's an additional thing that I’d like to mention. Some time in 2022 I believe I switched from seeing Dr. Alexander Pushka to APRN Edgar Matamoros for psychiatric treatment because Dr. Pushka was billing me each time I saw him for CPT code (insurance billing procedure code) 90833 - 30 minute psychotherapy - in addition to the CPT code for a regular office visit, but he never actually did any psychotherapy. Like each appointment basically consisted of Dr. Pushka asking “How are you?”, me saying “Fine”, him injecting me with the antipsychotic medication Invega, and then me leaving. I think he was trying to squeeze extra money out of my insurance on each visit with the extra CPT code. Also, I don’t think it was an honest mistake because in the “Psychotherapy” section of the medical records he would make stuff up and put it in there which gave the impression that actual psychotherapy happened. Oftentimes he would just copy-paste from a previous record. Edgar Matamoros’s medical records aren’t perfect (like one time he unintentionally put in that I was “noncompliant” instead of that I had a history of noncompliance, which is why I was on the monthly injection instead of the daily pill at the time, but in the next month's medical record he fixed that). This error concerned me because I heard of people getting kicked off of or rejected for SSDI due to treatment noncompliance, and I really don’t want to get kicked off because I genuinely can't work, but I think APRN Matamoros just made a transient little honest mistake whereas with Dr. Pushka I think it was more consistent, intentional fraud. I wanted to record my sessions with Dr. Pushka using the microphone on my phone to prove that there was no psychotherapy and he was just making up the stuff in the medical records, but in the state of Florida it is illegal to record a conversation without everyone's consent and if I just filed a complaint it would be Dr. Pushka’s word against mine and he would get away with it and might have retaliated. I’ve seen about five actual therapists including two psychiatrists who did actual therapy in addition to prescribing medication (with Dr. Mark Root in Michigan it was one-on-one therapy and with Dr. Lewis Winkler in Washington D.C. he oversaw group therapy sessions with me in them) and I never made any progress in therapy or got anything out of it. I don’t have any desire to talk to or see a therapist, and if I were forced to see one I think I would just stare at them and not say anything or ask to leave or not see them anymore after I have given them my backstory. This sentence is being added on April 5, 2023, but basically today I was thinking of maybe going back to an old therapist, Dr. Karilshtadt-Byk, to try and get treatment for my personality (I saw no change or effect from seeing her before), and I concluded that I do not want to say anything to her or see her (even if it were free), and that this isn't specific to just this therapist. By and large, the issues that I face have no cure and there is nothing I (or anyone else, I believe) can do about them - talking doesn’t help. My plan is to stay on Social Security until I either die of old age or commit suicide or (hopefully) get approved for physician assisted suicide, maybe in Switzerland, at some point in the future. This is an update on March 2nd, 2024, but I am now seeing Dr. Karilshtadt-Byk monthly. I verbally poured my shit on her, but I don't know if I will be able to keep this up long-term. I'm afraid I'll eventually get to an appointment where I just say nothing except for maybe a one-word answer here or there. I have never been able to keep seeing a therapist long-term.
+
+
+
+
 
 
 
@@ -323,7 +584,15 @@ Here is the third-to-last paragraph of this essay containing the final reason wh
 
 
 
+
+
+
+
 It is January 5th 2023 and I had another thought, so now this will be the second to last paragraph. I have a representative payee, but I really do not believe I need one. I went on a manic bipolar spending and money giving away spree before I applied for disability, but I haven't since. I'm actually very financially responsible. For example, I hold on to all my restaurant receipts and check to make sure the correct tip amount went through the transaction on my bank account. While I could try to apply to no longer have a representative payee, I am afraid to do so because I heard no longer having a representative payee can trigger a long-form Continuing Disability Review which can result in being kicked off benefits, and that would be very bad for me because I have no other way of getting money (except maybe selling the fluid portion of my blood if I could convince my parents to drive me to a blood plasma donation place). Like I said, I tried everything from applying to every minimum wage job I could to applying to the armed forces to even applying to be a sperm donor—I can't make money (and I really don't want to have to sell the fluid portion of my blood for food money like some sort of blood cow, and selling as frequently as is allowed only pays a few hundred dollars a month anyway). There are some inconveniences associated with being assigned a representative payee for my disability benefits, but I think the fact that the government has deemed me "not a competent adult" in this manner may be a good thing because if the government thinks I'm not competent to manage my own money, how can that same government think I'm competent to survive on my own without benefits? That's my thinking at least. But I can manage my money; (in year 2023) I use the NerdWallet app on my phone which is hooked into my bank account for my Social Security benefits. Also, like I said before I don't really know if the medication I was on, Invega, does anything other than give me sexual dysfunction (I was on Invega for about two or three months before my delusions that caused my psychiatric hospitalization went away, but my symptoms can go away on their own after a few months without any medication, so I don't actually know if that was a coincidence or not). In psychology and psychiatry there is this thing called an A-B-A-B test. From Google: "The A-B-A-B design represents an attempt to measure a baseline (the first A), a treatment measurement (the first B), the withdrawal of treatment (the second A), and the re-introduction of treatment (the second B)." If the condition gets better on every B and worse on the switch from B to A, it can be said that the treatment consistently produces the desired effect, but if it just so happens to get better from the first B but stay the same after the switch from B to A and then get worse on the second B, then the medication doesn't consistently make things better, so the improvement from the first B was a coincidence. I never had an A-B-A-B test with this medication. With some drugs like Adderall or Caffeine you don't need to do this sort of testing because the effects of the drug just hits you right away, but if it's a drug that takes weeks or months to work and symptoms come and go on their own in a matter of weeks or months as well then it's necessary to A-B-A-B test to know the effect wasn't a coincidence. My mother doesn't want me to discontinue medication, though, and my psychiatrist APRN Edgar Matamoros doesn't even want me to reduce the dose. When I first saw him I said the Invega I was on works well, but I never actually knew if it works well, I just said it does and stayed on the drug because I was afraid that if I went off the drug and had a Continuing Disability Review it would look like I didn't have schizoaffective disorder if I wasn't taking the drug Invega which is the only drug FDA approved for schizoaffective disorder. I imagine a Continuing Disability Review is sort of like a case and if I have the diagnosis of schizoaffective disorder on my medical records and I'm taking the medication for schizoaffective disorder, that can build up the case that this is my disorder, but in reality I don't know if the medication works or if my diagnosis is even accurate given all the weird neurological stuff I also experience. I have some reasons to believe the diagnosis isn't accurate, for example from Wikipedia it says "the main criterion for a diagnosis of schizoaffective disorder is the presence of psychotic symptoms for at least two weeks without any mood symptoms present", but in the past my delusions almost always went along with elevated mood (mania), and also I never had schizophrenic style visual or auditory hallucinations like hearing voices or seeing angels and devils or spiders that aren't there or anything like that (I have heard a ringing noise in my ear that went along with my neurological symptoms but that's not schizophrenic auditory hallucinations and I have seen shimmering in my field of vision or lights twinkling but those are more like occipital lobe seizures or more properly occipital lobe pseudo-seizures, which is a neurological symptom, than schizophrenic visual hallucinations). Also I read that people with schizoaffective disorder have "disorganized speech and thinking" like people with schizophrenia do and I think based on the organization and clarity of my writing that this description does not apply to me. I was never the one who made the diagnosis of schizoaffective disorder, some psychiatrist at some mental hospital that I was involuntarily committed to (for thinking that the FBI was spying on me and threatening them if they wouldn't stop) made the diagnosis based on my symptoms at the time, and I don't know if the diagnosis he made is accurate, but I believe bipolar schizophrenia or schizoaffective disorder (bipolar type) is what's on my medical records and is the condition I was granted disability benefits for (although maybe some other form of bipolar disorder was in there as well). The symptoms I've experienced over the years have all actually happened and there is definitely something wrong with me and my brain, but maybe my actual condition is something other than schizoaffective disorder. Anyway, I tried to tell my psychiatrist APRN Edgar Matamoros about the neurological stuff I also experience but it was hard for me to recall and describe most of the neurological stuff in words so I put it on paper and left the paper for him, but he was out that day so I left it to the front desk lady and told her to give it to him, but he never mentioned it so I don't know if he got it. I also tried to leave it as a note in MyChart (the medical records system) but he never replied to it or mentioned it or anything so I don't know if he read it. Even if he does read it, the neurologist Howard Kreger didn't know what my neurological symptoms were and again the EEG and brain MRI he ordered and the EEG epileptologist Alberto Pinzon ordered didn't show anything medically wrong so I don't expect a psychiatrist would know either. I don't know. I think the right thing to do is conduct an A-B-A-B test on my Invega and settle the presence or absence of a cause-and-effect relationship between Invega and my delusions for sure (it would also clarify whether my difficulty walking is another neurological thing or an extrapyramidal side effect of the Invega), but again I imagine not taking psychiatric medication when I'm on disability for a psychiatric condition could hurt my case for my Continuing Disability Review, especially if the decision to go off medication goes against my psychiatrist's guidance. Honestly I'm so scared of my upcoming Continuing Disability Review that I saved this essay on my phone and I update it regularly. I also printed out short-form and long-form Continuing Disability Review forms and practiced filling them out to prepare for it. I'm so immensely nervous about it because I've never had a CDR before and if I get kicked off benefits I have no other way of getting money. My disability is not clear or obvious so I'm afraid about having to prove it. This is an update on March 2nd, 2024, but I passed my short-form CDR and I went off the Invega and as I went off the Invega I also came off the delusion that a girl named “Erin” who I temporarily fell in love with and who I was fervently internet stalking was just pretending to not be interested because she was recruited into and being paid by an FBI/CIA conspiracy. This makes me strongly believe that the medication doesn't work because why would going off it make me sane? It seems like I just go through these cycles and changes regardless of medication. Also, I still have the muscle rigidity and walk with the cane despite not being on any drugs anymore. Also, before I tried taking significantly more antipsychotics than the doctor prescribed and the muscle rigidity, cane walking, and pseudo-Parkinsonism didn't get any worse. I don't know what the cause is. I really don't have a logical explanation for what I go through, and honestly nobody really does. This next paragraph was written at an earlier point in time so you can ignore the part about my muscle rigidity being caused by the medication as that has been disproven.
+
+
+
+
 
 
 
@@ -333,7 +602,15 @@ It is January 26, 2023 at the time of writing and this is the last paragraph. I 
 
 
 
+
+
+
+
 <a name="Sign-Off-With-Date"></a>
+
+
+
+
 
 
 
@@ -345,7 +622,15 @@ It is January 26, 2023 at the time of writing and this is the last paragraph. I 
 
 
 
+
+
+
+
 Date writing completed (without final edits): July 23, 2023
+
+
+
+
 
 
 
@@ -355,7 +640,15 @@ Date writing updated: March 2, 2024
 
 
 
+
+
+
+
 Date writing updated again: Sept 9, 2024
+
+
+
+
 
 
 
@@ -365,7 +658,15 @@ Date writing updated again: Sept 9, 2024
 
 
 
+
+
+
+
 <a name="Bonus-Paragraphs-Added-Later"></a>
+
+
+
+
 
 
 
@@ -375,7 +676,15 @@ Date writing updated again: Sept 9, 2024
 
 
 
+
+
+
+
 <ins>Bonus Paragraph 1:</ins>  
+
+
+
+
 
 
 
@@ -385,7 +694,15 @@ Bonus Paragraph 1 has been removed for brevity.
 
 
 
+
+
+
+
 <ins>Bonus Paragraph 2:</ins>  
+
+
+
+
 
 
 
@@ -395,7 +712,15 @@ Bonus Paragraph 2 has been removed for brevity.
 
 
 
+
+
+
+
 <ins>Bonus Paragraph 3:</ins> 
+
+
+
+
 
 
 
@@ -405,7 +730,15 @@ I want to talk about the tendency of hospitals and some doctors to shift blame. 
 
 
 
+
+
+
+
 ...
+
+
+
+
 
 
 
@@ -415,7 +748,15 @@ I can't find it, but basically I'm going to paraphrase and say I recall it said 
 
 
 
+
+
+
+
 Now here is a quote by me from this essay showing my side of the story: 
+
+
+
+
 
 
 
@@ -425,7 +766,15 @@ Now here is a quote by me from this essay showing my side of the story:
 
 
 
+
+
+
+
 Notice how when the hospital talks about it, they use the phrase "the patient failed" wheras when I talk about it, I explain why it didn't work. Also the hospital is the one who discharged me after the surveys they gave me showed my depression getting worse the longer I was on the program [I think when my insurance saw and they started refusing to pay], but the hospital made it look in the medical records like I just walked out prematurely. I think hospitals try to shift blame for legal liability reasons, and also they pad the medical records with huge amounts of irrelevant fluff, which may make it harder to find mistakes that they made. For example, at the psychiatric hospital of Memorial Regional hospital in Hollywood, Florida, they thought I had depression because I was sleeping during the day, so they gave me an antidepressant. In actuality I had the opposite of depression [mania, which can be made worse by the antidepressant], and I had been sleeping during the day and awake most of the night for years, see the section on sleep issues: 
+
+
+
+
 
 
 
@@ -435,7 +784,15 @@ Notice how when the hospital talks about it, they use the phrase "the patient fa
 
 
 
+
+
+
+
 But yeah, the psychiatric hospital prescribed the wrong drug. Stuff like that has happened multiple times before, but you almost never see "We messed up" in the hospital electronic medical records for legal liability reasons (ex. hospital doctor malpractice, etc.). I personally find this frustrating.
+
+
+
+
 
 
 
@@ -445,7 +802,15 @@ Bonus Paragraph 3 completed: Oct 26th, 2024
 
 
 
+
+
+
+
 <ins>Bonus Paragraph 4:</ins> 
+
+
+
+
 
 
 
@@ -455,7 +820,15 @@ This is an update. I posted the following in the Reddit AskNeurology forum:
 
 
 
+
+
+
+
 https://www.reddit.com/r/askneurology/comments/1ghg9f5/should_i_shrug_this_off_as_conversion_disorder/ 
+
+
+
+
 
 
 
@@ -465,7 +838,15 @@ A neurologist replied:
 
 
 
+
+
+
+
 https://www.reddit.com/r/askneurology/comments/1ghg9f5/comment/lwqepon/ 
+
+
+
+
 
 
 
@@ -475,7 +856,15 @@ In particular, this point from my essay, this essay, wasn't correct:
 
 
 
+
+
+
+
 > "the reality is that pseudoseizures virtually always resemble whole body shaking or passing out or in rare cases staring into space, not the symptoms I've had which more closely resemble simple partial seizures or focal aware seizures (but without the accompanying readings on an EEG, so they're not "real" focal aware seizures), and I can't find any record of pseudoseizures having ever resembled what I have" 
+
+
+
+
 
 
 
@@ -485,7 +874,19 @@ In particular, the neurologist said that wasn't correct because pseudoseizures (
 
 
 
+
+
+
+
 Bonus Paragraph 4 completed: Nov 27th, 2024
+
+
+
+
+
+
+
+
 
 
 
