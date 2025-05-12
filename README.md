@@ -735,7 +735,7 @@ https://github.com/JohnReedLOL/Essay_for_Disability/blob/main/JohnMichaelReed_Di
 
 
 
-👆 Note you may need to download that file (JohnMichaelReed_Disability_Behavioral.pdf) and then open the PDF in order to view it. Also note that on my long-form CDR (form SSA-454-BK) and on my form SSA-3373 I wrote that I have "Grandiose Narcissistic/Sociopath/Psychopath Personality Disorder" or that I am a "Grandiose narcissistic psychopath", but in retrospect I don't know if those self-diagnoses (which I made while manic) are entirely accurate - I don't know exactly what I have. At one point my therapist (who is not a specialist in autism or an expert in autism) thought it was some sort of autism, but I grew up without having symptoms of autism, was tested for autism by a psychiatrist as a child, and was found not to have it, so I don’t think it’s autism. Like there are symptoms of autism, even High Functioning Autism, like early language delays or speech delays and other symptoms that I just never had. No special sensitivity to the textures of certain foods or clothes, no sensory overload, no preference of the company of animals over people, no difficulty or severe discomfort making eye contact with other people, etc.
+👆 Note you may need to download that file (JohnMichaelReed_Disability_Behavioral.pdf) and then open the PDF in order to view it. Also note that on my long-form CDR (form SSA-454-BK) and on my form SSA-3373 I wrote that I have "Grandiose Narcissistic/Sociopath/Psychopath Personality Disorder" or that I am a "Grandiose narcissistic psychopath", but in retrospect I don't know if those self-diagnoses (which I made while manic) are entirely accurate - I don't know exactly what I have. At one point my therapist (who is not a specialist in autism or an expert in autism) thought it was some sort of autism, but I grew up without having symptoms of autism, was tested for autism by a psychiatrist as a child, and was found not to have it, so I don’t think it’s autism. Like there are symptoms of autism, even High Functioning Autism, like early language delays or speech delays and other symptoms that I just never had. No special sensitivity to the textures of certain foods or clothes, no sensory overload, no preference of the company of animals over people, no difficulty or severe discomfort making eye contact with other people, no difficulty knowing what people mean for me to do when they point at something with their finger, no super rigid routines or schedules, etc.
 
 
 
@@ -873,7 +873,7 @@ But yeah, here is another "Narcissist Iceberg" image that also largely resonated
 
 
 
-![Narcissist Iceberg 2](https://imgur.com/a/4IsIPwB)
+![Narcissist Iceberg 2](https://i.imgur.com/urmOYDL.jpeg)
 
 
 
