@@ -688,7 +688,11 @@ Anyway, for the left hand (bass clef), if a note is on the second horizontal lin
 
 
 
+This is an update on January 14th 2026. In this essay, I previously wrote "I personally am afraid of having to take one to prove my disability because neurocognitive tests can't predict real world performance the way a real job can test real world performance". Well I finally got around to taking a neuropsych evaluation, the results are here on Google Drive: 
 
+https://drive.google.com/file/d/1bL0AOsG5n9NOcsJhKDRqul1qbO-lSd20/view?usp=drivesdk 
+
+👆🏼 I didn't read most of it because reading is hard for me (weird unexplained neurological symptoms, eyes keep involuntarily moving), but I heard from the neuropsychologist who administered the test that I didn't do well, at least on some parts. He specializes in concussion and said my pattern of poor performance is more in line with something "functional", like "Functional Neurological Disorder". He also got the impression that I might be autistic but I checked the symptoms of autism like 20 times and I don't have most of them, although I am socially challenged in a way. Note that autism is more than just an adult who is socially challenged, there are other things to it (which I do not have).
 
 
 
@@ -881,6 +885,9 @@ Exiting the tangent where I wrote about cognitive issues, the second reason I ca
 
 
 This is an update on Jun 9, 2023, but I discovered something people who don't have Non-24 may not understand about sleep after discussing my condition with a person who doesn't have Non-24. The guy who I was discussing my condition with thought sleep works kind of like food. Like if you miss breakfast, you just eat a bigger meal later on. Sleep doesn't work like that. Like if every day you get in bed at 10PM and get out of bed at 7AM and one night for some reason you have insomnia and can't fall asleep all night, you won't just start sleeping uninterrupted from 10AM to 7PM. You might be able to take a midday nap, like a Siesta (which I know they used to do in Spain), but you won't be able to have a full-length, deep, uninterrupted sleep with sunlight in your room that you can see on the inside of your eyelids when you close your eyes. Like imagine that such a person has a device hooked up to their head (like an EEG machine) that can detect when they are asleep by reading their brainwaves and it will shock them awake after a short time if they fall asleep during any time that's not between 10AM and 7PM. The idea is to try and force them to sleep each day between 10AM and 7PM despite the fact that that's not naturally when they feel tired. Assuming they still get regular daylight exposure, they will never sleep uninterrupted throughout those hours even though they get woken up when they sleep during any other hours. Instead what will happen is that at night, when they normally sleep, they will fall into brief "microsleeps" (defined as "involuntary episodes of sleep lasting a few seconds, sometimes with eyes open") and then get woken up. Like they will constantly be in this sort of tired, half-asleep state, especially at night during the time they sleep naturally. They will not just naturally start having a full night's sleep between the hours of 10AM and 7PM, especially if they get normal daylight exposure and don't have any sort of sleep disorder. Like people are hardwired to have a certain time when they get tired and a certain time when they are most alert and you can't force them to sleep during the time when they're most alert, even if they're sleep deprived, especially if it contradicts with their daylight exposure. Non-24 is a debilitating condition for the people who have it and in general if they are forced to be awake during the day, instead of adjusting to their forced sleep time, they instead just fall into "microsleeps" or end up in a tired, half-asleep state during the day and still can't sleep at night. Trying to get a person with Non-24 to sleep at night is kind of like getting a person with a regular sleep schedule and regular daylight exposure to sleep every day from 10AM to 7PM. Like it just doesn't work. Oh, this is an update on March 1, 2024, but my sleep became normal for like a month and then I went back to sleeping during the day and being awake at night. I don't know what's going on. This is an update on Sept 7, 2024, but I had a two or three week period of waking up between 2 AM and 5 AM fully rested and not wanting to go back to sleep. Again, I don't know what's going on or why, and at this point I don't care. I just go to sleep when I feel tired and sleep until I'm done and I don't worry about the time. If I sleep at night or sleep during the day I don't care. This is an update on Sept 17, 2024, but I just woke up at 11:30 PM after nine straight hours of sleep. From now on I'm just not going to keep track of my sleep. It is more or less random now and I don't care and I am unwilling to lose sleep to accommodate any employer. This is an update on Dec 11, 2024, and I am not exhibiting the average of 1-hour delay in my sleep schedule every 24 hours characteristic of Non-24, but my sleep is still not normal or good for working a nine-to-five job and I will not work a job half-asleep.
+
+
+This is an update on January 14th 2026. The Non-24 sleep disorder went away. My sleep still isn't "normal" (like I naturally have been going to bed and waking up late, like waking up at 10:30 AM), but my sleep schedule isn't shifting an hour later every 24 hours the way it would for a person with Non-24. I have no logical explanation for why the Non-24 sleep disorder began and why it went away. The timing doesn't line up with any medication or any life event or anything. I've been having lots of weird changing neurological symptoms, though. I do not understand what is going on, and from what I can tell, neither does any doctor.
 
 
 
@@ -1703,10 +1710,22 @@ Source: https://imgur.com/a/4IsIPwB
 
 
 
+This is an update on January 14th, 2026. I mentioned "subconscious" in this section of the essay. Like "Oh, at a conscious level I want X but at a subconscious level I don't want X". I just want to emphasize that I am not my subconscious. 
 
 
+Like if I love Disney and want to go to Disney World amusement park but I automatically and involuntarily have a panic attack whenever I am near the park, that doesn't mean that I don't want to go. I still want to go. I might have to take lots of benzodiazapines (ex. Xanax, Klonopin, etc.) to be able to go, but I still want to go. Just because my subconscious gets in the way doesn't mean that I don't want to go. If my subconscious doesn't want to go but my conscious does, I want to go because I am my conscious, not my subconscious/automatic/involuntary.
 
 
+A person is their conscious, not their reflexes. Like for example, it is a reflex that when a doctor hits under your knee with a hammer, you kick. If a doctor hit under your knee with a hammer and you accidentally kicked the doctor in the face, you didn't want to kick the doctor in the face. It happened automatically. Likewise, the example in the prior paragraph with the Disney panic attacks happens involuntarily and automatically. A person is their conscious, not their subconscious/automatic reflexes.
+
+
+I don't want to be romantically alone because my conscious does not want to be romantically alone. It's just that my automatic/involuntary/subconscious gets in the way. Sort of like the person who wants to go to Disney but they suddenly, automatically, involuntarily, and unexpectedly have a panic attack whenever they are near Disney amusement park. 
+
+
+Speaking of conscious vs subconscious, it is obvious to me that I cannot beat my subconscious. I am forced to be romantically alone despite not wanting that at a conscious level. My subconscious beats my conscious every time. I am powerless, and I am tired. 
+
+
+I have multiple different disabilities, but this is the one that most makes me not want to live. I am 32 years old now and have never had an official girlfriend or been an official boyfriend despite having spent most of my life trying. I was on up to nine different dating apps simultaneously with no real success. I was going to social events listed on the websites Meetup and Eventbrite every afternoon for years with no success. I am so tired and I do not want to live any longer. I do not feel that my life is worth living. I am fundamentally unable to love, and no amount of conscious effort can override that. And no, therapy with a psychologist didn't fix that, and I have been seeing a psychiatrist regularly for years.
 
 
 
