@@ -203,6 +203,7 @@ Table of Contents (click on a link to jump to that section)
 * <a href="#Social-or-Interpersonal-or-Personality-Issues">Social/Interpersonal/Personality/Psychological Issues</a>
 * <a href="#Motivation-Issues">Motivation Issues</a>
 * <a href="#Additional-Information-Including-Neurological-Symptoms">Additional Information Including Neurological Symptoms</a>
+* <a href="#Neurological-Symptoms-Functional-Neurological-Disorder">Neurological Symptoms, Functional Neurological Disorder, and then more additional info</a>
 * <a href="#Sign-Off-With-Date">Sign off with date</a>
 * <a href="#Bonus-Paragraphs-Added-Later">Bonus Paragraphs Added Later</a>
 
@@ -1953,32 +1954,6 @@ ________________________________________________________________________________
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Additional Information Including Neurological Symptoms
 
 
@@ -2041,17 +2016,14 @@ Also, it is of note that the core, positive symptoms of my form of bipolar disor
 
 
 
+<a name="Neurological-Symptoms-Functional-Neurological-Disorder"></a>
 
 
 
 
 
 
-
-
-
-
-
+### Neurological Symptoms, Functional Neurological Disorder, and then more additional info
 
 
 
