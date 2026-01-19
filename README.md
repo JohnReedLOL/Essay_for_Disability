@@ -2028,6 +2028,13 @@ Also, it is of note that the core, positive symptoms of my form of bipolar disor
 
 
 
+"Symptoms seem to slowly wean until around 2020 or so when he started to have a different variety of symptoms.  At this time he would see light that seem to twinkle and his eyes would be drawn to lights.  He would experience out of body sensations, involuntary laughing/crying episodes followed by episodic coughing episodes.  These episodes were occasional, occurring more at night and never followed loss of consciousness.  Around this time had neurologic workup for epilepsy which was negative including EEG capturing the spells. 
+ 
+Symptoms seem to greatly wean within until 2023/4 or so when he started to have harsh involuntary jerking movements.  He explained that extremity would suddenly jerk with large amplitude.  He felt there were often the lingering light/déjà vu sensations around these jerks." 
+
+From the office of neurologist Dr. Buse Sengul: 
+
+- https://drive.google.com/file/d/1letMCFRU5sgFUXBCjsmVWhCskVP4T_GR/view?usp=drivesdk 
 
 
 
